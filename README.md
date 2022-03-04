@@ -260,16 +260,16 @@ I'm using GitHub's special markdown flavor, including tasks lists to track progr
 
     Fork a branch and follow the commands below
 
-Fork the GitHub repo https://github.com/jwasham/coding-interview-university by clicking on the Fork button.
+[x] Fork the GitHub repo https://github.com/jwasham/coding-interview-university by clicking on the Fork button.
 
-Clone to your local repo:
+[x] Clone to your local repo:
 
     git clone git@github.com:<your_github_username>/coding-interview-university.git
     git checkout -b progress
     git remote add jwasham https://github.com/jwasham/coding-interview-university
     git fetch --all
 
-Mark all boxes with X after you completed your changes:
+[x] Mark all boxes with X after you completed your changes:
 
     git add .
     git commit -m "Marked x"
