@@ -332,8 +332,8 @@ You may not need it, but here are some sites for learning a new language:
 You can use a language you are comfortable in to do the coding part of the interview, but for large companies, these are solid choices:
 
 - C++
-- Java
-- Python
+- [x] Java
+- [x] Python
 
 You could also use these, but read around first. There may be caveats:
 
@@ -364,7 +364,7 @@ Just choose one, in a language that you will be comfortable with. You'll be doin
 
 ### Python
 
-- [Data Structures and Algorithms in Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
+- [x] [Data Structures and Algorithms in Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
     - by Goodrich, Tamassia, Goldwasser
     - I loved this book. It covered everything and more.
     - Pythonic code
@@ -375,7 +375,7 @@ Just choose one, in a language that you will be comfortable with. You'll be doin
 Your choice:
 
 - Goodrich, Tamassia, Goldwasser
-    - [Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/1118771338/)
+    - [x] [Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/1118771338/)
 - Sedgewick and Wayne:
     - [Algorithms](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/)
     - Free Coursera course that covers the book (taught by the authors!):
